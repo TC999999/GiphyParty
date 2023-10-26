@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: red;
+  background-color: black;
+  padding: 50px;
+}
+
+#GIFForm {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+#removeGIFs {
+  background-color: orange;
+  border-color: orange;
+  color: white;
+}
+
+#removeGIFS,
+#findGIF,
+#searchGIF {
+  padding: 10px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+}
